@@ -1,5 +1,5 @@
 
-<img ![Alt Text](Header.gif) width="200"/>
+![Ethan Bernstrom Girvan Header Gif](Header.gif)
 
 Hey there! I'm Ethan, a Computer Science Student. My interests range from the more theoretical sides of Comp Sci like AI and Quantum Computing to Full Stack Web and Android App Dev - Particularly the UI design aspects of these projects.
 
