@@ -2,7 +2,7 @@
 ### Computer Science Student
 
 [![EthanBG-01's github stats](https://github-readme-stats.vercel.app/api?username=EthanBG-01)](https://github.com/EthanBG-01/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanBG-01)](https://github.com/EthanBG-01/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanBG-01&layout=compact)](https://github.com/EthanBG-01/github-readme-stats)
 <!--
 **EthanBG-01/EthanBG-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
