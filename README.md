@@ -1,7 +1,6 @@
+Hey there! I'm Ethan, a Computer Science Student. My interests range from the more theoretical sides of Comp Sci like AI and Quantum Computing to Full Stack Web and Android App Dev - Particularly the UI design aspects of these projects.
 
 ![Ethan Bernstrom Girvan Header Gif](https://github.com/EthanBG-01/EthanBG-01/blob/master/Header.gif)
-
-Hey there! I'm Ethan, a Computer Science Student. My interests range from the more theoretical sides of Comp Sci like AI and Quantum Computing to Full Stack Web and Android App Dev - Particularly the UI design aspects of these projects.
 
 #### Technologies and Tools
 
