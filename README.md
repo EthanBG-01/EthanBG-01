@@ -3,7 +3,6 @@ I'm Ethan, a Computer Science Student at the University of Warwick. My interests
 
 ### :books: Current Projects
 - [Digi Lib](https://github.com/EthanBG-01/Digi-Lib): a virtual book collection site, uses Google-Books-API to fetch and display data.
-- [Packet-Sniffer](https://github.com/EthanBG-01/Packet-Sniffer): a linux command line packet sniffer written in C.
 - [Music-Explorer](https://github.com/EthanBG-01/Music-Explorer): front-end web application that uses Spotify-API to display related artists.
 
 ### :wrench: Technologies, Languages and Tools
