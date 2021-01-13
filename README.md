@@ -1,5 +1,5 @@
 ## Hey There! 👋
-I'm Ethan, a Computer Science Student at the University of Warwick. My interests range from the more theoretical sides of comp sci like AI and quantum computing to full stack web and android app Development - Particularly the UI design aspects of these projects.
+I'm Ethan, a Computer Science Student at the University of Warwick. My interests range from the more theoretical sides of comp sci like AI and quantum computing to Full Stack Web Development - Particularly the UI design aspects of these projects.
 
 ### :books: Current Projects
 - [Digi Lib](https://github.com/EthanBG-01/Digi-Lib): a virtual book collection site, uses Google-Books-API to fetch and display data.
